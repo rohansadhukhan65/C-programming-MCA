@@ -1,7 +1,8 @@
 ==> Introduction 
 
     --> preprocessor besically # deke likhne wali lines ko replace 
-        karti h code se is # deke likhne wali line ko ham preprosessor
+        karti h and .h extension wali header files add karti h 
+        code se is # deke likhne wali line ko ham preprosessor
         command bolte h .
 
     --> after preprocessor's processing it creates a file with .i extension

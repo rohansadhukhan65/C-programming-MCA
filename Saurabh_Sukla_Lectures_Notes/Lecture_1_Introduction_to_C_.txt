@@ -1,0 +1,27 @@
+==> Introduction 
+
+    --> preprocessor besically # deke likhne wali lines ko replace 
+        karti h and .h extension wali header files add karti h 
+        code se is # deke likhne wali line ko ham preprosessor
+        command bolte h .
+
+    --> after preprocessor's processing it creates a file with .i extension
+
+    --> then compilor compiles .i extension file to .obj file 
+
+    --> now in .obj extension file tehre may some line exist which system
+        can't understand and these are defined inside library file 
+
+    --> now another software comes into this compiling processes called
+        Linker it linkes all the library file code and creates a new file 
+        with .exe extension.
+
+    steps are : 
+
+    1)  1) preprosessor ( includes # started 
+        commands in code creates a file with extension .i) 
+                    --> 
+        2) Compilor (convert .i extension file into .obj file 
+        inside this binary codes thakbe)
+                    -->
+        
