@@ -15,6 +15,7 @@
     --> C is the worlds most popular programming language .
 
 ==> Why should students use C language 
+
     --> C is important to build proraming skills ( without c you can't see)
     --> C covers basic fetaures of all programming languages
     --> campus requirement me kam ati hai 
@@ -27,6 +28,14 @@
         who created BCPL(Basic Combined programming Language ) in 1966
     --> After BCPL Dennis Rotchie comes and developed C Language in 1972 in 
         USA AT & T's Bell LAB'scripting he also co-developed UNIX operating
-        System
+        System and c banaya gaya tha UNIX develope karne k liye .
+
+
+
+==> Programe and Processes
+
+    --> Set if instructuions are programme
+    --> active state of programme called processes
+
 
 
